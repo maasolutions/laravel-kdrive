@@ -53,7 +53,7 @@ To be able to connect to your kDrive, you'll need the following information.
 ## License
 The MIT License (MIT). Please see the [LICENSE](LICENSE.md) for more information.
 
-[icon-version]: https://img.shields.io/packagist/v/groupe-orka/laravel-kdrive?style=flat-square
-[icon-license]: https://img.shields.io/packagist/l/groupe-orka/laravel-kdrive?style=flat-square
-[icon-downloads]: https://img.shields.io/packagist/dt/groupe-orka/laravel-kdrive?style=flat-square
-[link-packagist]: https://packagist.org/packages/groupe-orka/laravel-kdrive
+[icon-version]: https://img.shields.io/packagist/v/maa-solutions/laravel-kdrive?style=flat-square
+[icon-license]: https://img.shields.io/packagist/l/maa-solutions/laravel-kdrive?style=flat-square
+[icon-downloads]: https://img.shields.io/packagist/dt/maa-solutions/laravel-kdrive?style=flat-square
+[link-packagist]: https://packagist.org/packages/maa-solutions/laravel-kdrive
