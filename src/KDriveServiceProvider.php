@@ -1,6 +1,6 @@
 <?php
 
-namespace Infomaniak\KDrive;
+namespace MaaSolutions\KDrive;
 
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\ServiceProvider;

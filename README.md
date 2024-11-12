@@ -9,18 +9,7 @@ This package contains an [Infomaniak kDrive](https://www.infomaniak.com/en/kdriv
 ## Installation
 Via [Composer](https://getcomposer.org/)
 ```shell script
-composer require infomaniak/laravel-kdrive
-```
-
-### Register the Service Provider
-Starting with laravel 5.5, the Service Provider is automatically registered so may skip this instruction.
-
-Add the Service provider to your `config/app.php` file:
-
-```php
-'providers' => [
-    \Infomaniak\KDrive\KDriveServiceProvider::class,
-],
+composer require maa-solutions/laravel-kdrive
 ```
 
 ### Configure a new disk
@@ -64,7 +53,7 @@ To be able to connect to your kDrive, you'll need the following information.
 ## License
 The MIT License (MIT). Please see the [LICENSE](LICENSE.md) for more information.
 
-[icon-version]: https://img.shields.io/packagist/v/infomaniak/laravel-kdrive?style=flat-square
-[icon-license]: https://img.shields.io/packagist/l/infomaniak/laravel-kdrive?style=flat-square
-[icon-downloads]: https://img.shields.io/packagist/dt/infomaniak/laravel-kdrive?style=flat-square
-[link-packagist]: https://packagist.org/packages/infomaniak/laravel-kdrive
+[icon-version]: https://img.shields.io/packagist/v/groupe-orka/laravel-kdrive?style=flat-square
+[icon-license]: https://img.shields.io/packagist/l/groupe-orka/laravel-kdrive?style=flat-square
+[icon-downloads]: https://img.shields.io/packagist/dt/groupe-orka/laravel-kdrive?style=flat-square
+[link-packagist]: https://packagist.org/packages/groupe-orka/laravel-kdrive
